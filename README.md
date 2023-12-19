@@ -1,1 +1,2 @@
-![]([https://github.com/Your_Repository_Name/Controlmousewithfingers.gif](https://github.com/BIGFUBUFIX/ControlMouseWithfingers-opencv-project/blob/main/Controlmousewithfingers.gif)https://github.com/BIGFUBUFIX/ControlMouseWithfingers-opencv-project/blob/main/Controlmousewithfingers.gif)
+![](https://github.com/BIGFUBUFIX/ControlMouseWithfingers-opencv-project/blob/main/Controlmousewithfingers.gif)
+
